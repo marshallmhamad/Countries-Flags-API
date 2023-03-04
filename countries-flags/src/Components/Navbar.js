@@ -18,9 +18,6 @@ export default function Navbar() {
       <nav>
         <ul className="nav_links">
           <li>
-            <a href="#">Services</a>
-          </li>
-          <li>
             <a href="#">Projects</a>
           </li>
           <li>
